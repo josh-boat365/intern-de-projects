@@ -1,0 +1,15 @@
+Naming conventions in programming 
+
+- camelCase
+example:
+    contactRegistrationFrom
+- PascalCase
+example:
+    ContactRegistrationForm
+- kebab-case
+example:
+    contact-form-registration
+- snake_case
+example:
+    Contact_Registration_From
+    contact_registration_form
